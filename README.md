@@ -3,6 +3,6 @@
 
 Team ID : PNT2022TMID27218 
 
-Team Leader - Aakash.S                                                                                                                                                Team Member 1 - Aakash.B                                                                                                                                              Team Member 2 - Dharshan.S                                                                                                                                            Team Member 3 - Ajith.G
+Team Leader - Aakash.S, Team Member 1 - Aakash.B, Team Member 2 - Dharshan.S, Team Member 3 - Ajith.G
 
 [Project Demonstration Link](https://share.vidyard.com/watch/YCdzzsP2bEtobd1C6Htw5X)
